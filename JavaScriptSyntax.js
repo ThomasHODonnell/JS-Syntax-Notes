@@ -213,7 +213,7 @@ function typeEx() {
   }); 
     return promise; 
   }
-  
+
   //.then is an error handler
     //accepts to args: success function, then failure function
   //used in accordance with res, rej
