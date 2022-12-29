@@ -131,7 +131,8 @@ function typeEx() {
     console.log(k,v)
   }
   
-  //A set is a map of just strings 
+    //sets are an array of strings, values, and/or objects 
+//MAPS CANNOT HAVE DUPLICATES 
   //Sets have the similar functions as map
   //add, size, clear, has 
   //can pass in array, same as map instead of .add
